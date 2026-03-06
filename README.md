@@ -30,9 +30,14 @@ The website is built using HTML, CSS, and JavaScript and can be accessed through
 
 ---
 
-## CloudFront Endpoint
+## Webpage Link
 
-https://dzf6emikv4l5q.cloudfront.net
+**CloudFront Domain URL:**
+https://dzf6emikv4l5q.cloudfront.net/
+
+**S3 Website Endpoint URL:**
+http://vivekdesaibucket.s3-website-us-east-1.amazonaws.com
+
 
 ---
 
