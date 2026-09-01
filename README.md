@@ -6,7 +6,6 @@ This project demonstrates how to host a static website using Amazon Web Services
 
 The website is built using HTML, CSS, and JavaScript and can be accessed through the CloudFront distribution endpoint.
 
----
 
 ## Technologies Used
 
@@ -16,7 +15,6 @@ The website is built using HTML, CSS, and JavaScript and can be accessed through
 * CSS
 * JavaScript
 
----
 
 ## Deployment Steps
 
@@ -25,7 +23,7 @@ The website is built using HTML, CSS, and JavaScript and can be accessed through
 3. Enabled Static Website Hosting in the S3 bucket.
 4. Configured a bucket policy to allow public read access.
 5. Created a CloudFront distribution for faster global content delivery.
-6. Set `index.html` as the default root object in CloudFront.
+6. Set `index.html` as the default root objects in CloudFront.
 7. Verified the deployment using the CloudFront endpoint URL.
 
 ---
